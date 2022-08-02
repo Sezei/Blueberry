@@ -1,0 +1,6 @@
+# Disallow the .persist file to be displayed in the github.
+*.persist
+*.log
+gateway.json
+.vscode/
+deps/
