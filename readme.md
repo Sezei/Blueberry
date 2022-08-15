@@ -38,3 +38,5 @@ I would definitely like some improvements for what I am doing, while keeping the
 current code clean and adding more commands to it.
 
 Simply open an issue/pull request, and I'll get right to it!
+
+[![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/gr6t.svg)](https://betteruptime.com/?utm_source=status_badge)
